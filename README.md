@@ -4,11 +4,11 @@
 ### ToDo
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
 
-# Truffle version: v5.4.1
-# OpenZeppelin : 4.2.0
-# Token Name : FwdToken
-# Token Symbol : FWD
-# Token Address : 0x12dEE508A5135336A260bEb576Fb19fa779791d2
+### Truffle version: v5.4.1
+### OpenZeppelin : 4.2.0
+### Token Name : FwdToken
+### Token Symbol : FWD
+### Token Address : 0x12dEE508A5135336A260bEb576Fb19fa779791d2
 
 ### Dependencies
 For this project, you will need to have:
